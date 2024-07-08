@@ -1,0 +1,16 @@
+textbox-container {
+    border: 10px solid white;
+    
+}
+
+textarea {
+    width: 1400px;
+    font-size: 0.9rem;
+    color: #fff;
+    background: #350616;
+    border-radius: 0.6rem;
+    border: 2px solid #350616;
+    padding: 1rem;
+    margin: 1rem;
+    overflow: auto;
+}
